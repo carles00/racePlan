@@ -1,0 +1,742 @@
+[
+  {
+    "id": 1,
+    "name": "BMW M2 CS Racing",
+    "baseContent": true
+  },
+  {
+    "id": 2,
+    "name": "Cadillac CTS-V Racecar",
+    "baseContent": true
+  },
+  {
+    "id": 3,
+    "name": "Dirt Micro Sprint Car",
+    "baseContent": true
+  },
+  {
+    "id": 4,
+    "name": "Dirt Mini Stock",
+    "baseContent": true
+  },
+  {
+    "id": 5,
+    "name": "Dirt Street Stock",
+    "baseContent": true
+  },
+  {
+    "id": 6,
+    "name": "Dirt UMP Modified",
+    "baseContent": true
+  },
+  {
+    "id": 7,
+    "name": "Formula Vee",
+    "baseContent": true
+  },
+  {
+    "id": 8,
+    "name": "Global Mazda MX-5 Cup",
+    "baseContent": true
+  },
+  {
+    "id": 9,
+    "name": "Kia Optima",
+    "baseContent": true
+  },
+  {
+    "id": 10,
+    "name": "Legends Ford '34 Coupe",
+    "baseContent": true
+  },
+  {
+    "id": 11,
+    "name": "Lucas Oil Off Road Pro 2 Lite",
+    "baseContent": true
+  },
+  {
+    "id": 12,
+    "name": "Mini Stock",
+    "baseContent": true
+  },
+  {
+    "id": 13,
+    "name": "Pontiac Solstice",
+    "baseContent": true
+  },
+  {
+    "id": 14,
+    "name": "Radical SR8",
+    "baseContent": true
+  },
+  {
+    "id": 15,
+    "name": "Ray FF1600",
+    "baseContent": true
+  },
+  {
+    "id": 16,
+    "name": "SCCA Spec Racer Ford",
+    "baseContent": true
+  },
+  {
+    "id": 17,
+    "name": "Street Stock - Panther C1",
+    "baseContent": true
+  },
+  {
+    "id": 18,
+    "name": "Toyota GR86",
+    "baseContent": true
+  },
+  {
+    "id": 19,
+    "name": "VW Beetle",
+    "baseContent": true
+  },
+  {
+    "id": 20,
+    "name": "VW Jetta TDI Cup",
+    "baseContent": true
+  },
+  {
+    "id": 21,
+    "name": "[Legacy] Dallara DW12",
+    "baseContent": true
+  },
+  {
+    "id": 22,
+    "name": "[Legacy] Mazda MX-5 Cup & Roadster - 2010",
+    "baseContent": true
+  },
+  {
+    "id": 23,
+    "name": "[Legacy] NASCAR Truck Chevrolet Silverado - 2008",
+    "baseContent": true
+  },
+  {
+    "id": 24,
+    "name": "Acura NSX GT3 EVO 22",
+    "baseContent": false
+  },
+  {
+    "id": 25,
+    "name": "Ferrari 499P",
+    "baseContent": false
+  },
+  {
+    "id": 26,
+    "name": "Supercars Chevrolet Camaro Gen 3",
+    "baseContent": false
+  },
+  {
+    "id": 27,
+    "name": "Supercars Ford Mustang Gen 3",
+    "baseContent": false
+  },
+  {
+    "id": 28,
+    "name": "Acura ARX-06 GTP",
+    "baseContent": false
+  },
+  {
+    "id": 29,
+    "name": "ARCA Menards Chevy/Gen 4 Cup",
+    "baseContent": false
+  },
+  {
+    "id": 30,
+    "name": "Aston Martin DBR9 GT1",
+    "baseContent": false
+  },
+  {
+    "id": 31,
+    "name": "Aston Martin Vantage GT4",
+    "baseContent": false
+  },
+  {
+    "id": 32,
+    "name": "Audi 90 GTO",
+    "baseContent": false
+  },
+  {
+    "id": 33,
+    "name": "Audi R18",
+    "baseContent": false
+  },
+  {
+    "id": 34,
+    "name": "Audi R8 LMS EVO II GT3",
+    "baseContent": false
+  },
+  {
+    "id": 35,
+    "name": "Audi RS 3 LMS TCR",
+    "baseContent": false
+  },
+  {
+    "id": 36,
+    "name": "BMW M Hybrid V8",
+    "baseContent": false
+  },
+  {
+    "id": 37,
+    "name": "BMW M4 F82 GT4 - 2018",
+    "baseContent": false
+  },
+  {
+    "id": 38,
+    "name": "BMW M4 G82 GT4",
+    "baseContent": false
+  },
+  {
+    "id": 39,
+    "name": "BMW M4 GT3",
+    "baseContent": false
+  },
+  {
+    "id": 40,
+    "name": "BMW M8 GTE",
+    "baseContent": false
+  },
+  {
+    "id": 41,
+    "name": "Cadillac V-Series.R GTP",
+    "baseContent": false
+  },
+  {
+    "id": 42,
+    "name": "Chevrolet Corvette C6.R GT1",
+    "baseContent": false
+  },
+  {
+    "id": 43,
+    "name": "Chevrolet Corvette C7 Daytona Prototype",
+    "baseContent": false
+  },
+  {
+    "id": 44,
+    "name": "Chevrolet Corvette C8.R GTE",
+    "baseContent": false
+  },
+  {
+    "id": 45,
+    "name": "Chevrolet Corvette Z06 GT3.R",
+    "baseContent": false
+  },
+  {
+    "id": 46,
+    "name": "Dallara F3",
+    "baseContent": false
+  },
+  {
+    "id": 47,
+    "name": "Dallara IL15",
+    "baseContent": false
+  },
+  {
+    "id": 48,
+    "name": "Dallara iR-01",
+    "baseContent": false
+  },
+  {
+    "id": 49,
+    "name": "Dallara IR18",
+    "baseContent": false
+  },
+  {
+    "id": 50,
+    "name": "Dallara P217",
+    "baseContent": false
+  },
+  {
+    "id": 51,
+    "name": "Dirt Big Block / 358 Modified",
+    "baseContent": false
+  },
+  {
+    "id": 52,
+    "name": "Dirt Late Model",
+    "baseContent": false
+  },
+  {
+    "id": 53,
+    "name": "Dirt Midget",
+    "baseContent": false
+  },
+  {
+    "id": 54,
+    "name": "Dirt Sprint Car",
+    "baseContent": false
+  },
+  {
+    "id": 55,
+    "name": "Dirt Sprint Car - Non-Winged",
+    "baseContent": false
+  },
+  {
+    "id": 56,
+    "name": "Ferrari 296 GT3",
+    "baseContent": false
+  },
+  {
+    "id": 57,
+    "name": "Ferrari 296 Challenge",
+    "baseContent": false
+  },
+  {
+    "id": 58,
+    "name": "Ferrari 488 GTE",
+    "baseContent": false
+  },
+  {
+    "id": 59,
+    "name": "FIA F4",
+    "baseContent": false
+  },
+  {
+    "id": 60,
+    "name": "Ford Fiesta RS WRC",
+    "baseContent": false
+  },
+  {
+    "id": 61,
+    "name": "Ford GT GT2/GT3",
+    "baseContent": false
+  },
+  {
+    "id": 62,
+    "name": "Ford GTE",
+    "baseContent": false
+  },
+  {
+    "id": 63,
+    "name": "Ford Mustang FR500S",
+    "baseContent": false
+  },
+  {
+    "id": 64,
+    "name": "Ford Mustang GT3",
+    "baseContent": false
+  },
+  {
+    "id": 65,
+    "name": "Formula Renault 2.0",
+    "baseContent": false
+  },
+  {
+    "id": 66,
+    "name": "Formula Renault 3.5",
+    "baseContent": false
+  },
+  {
+    "id": 67,
+    "name": "Honda Civic Type R TCR",
+    "baseContent": false
+  },
+  {
+    "id": 68,
+    "name": "HPD ARX-01c",
+    "baseContent": false
+  },
+  {
+    "id": 69,
+    "name": "Hyundai Elantra N TCR",
+    "baseContent": false
+  },
+  {
+    "id": 70,
+    "name": "Hyundai Veloster N TCR",
+    "baseContent": false
+  },
+  {
+    "id": 71,
+    "name": "Indy Pro 2000 PM-18",
+    "baseContent": false
+  },
+  {
+    "id": 72,
+    "name": "Lamborghini Huracán GT3 EVO",
+    "baseContent": false
+  },
+  {
+    "id": 73,
+    "name": "Late Model Stock",
+    "baseContent": false
+  },
+  {
+    "id": 74,
+    "name": "Ligier JS P320",
+    "baseContent": false
+  },
+  {
+    "id": 75,
+    "name": "Lotus 49",
+    "baseContent": false
+  },
+  {
+    "id": 76,
+    "name": "Lotus 79",
+    "baseContent": false
+  },
+  {
+    "id": 77,
+    "name": "Lucas Oil Off Road Pro Trucks",
+    "baseContent": false
+  },
+  {
+    "id": 78,
+    "name": "McLaren 570S GT4",
+    "baseContent": false
+  },
+  {
+    "id": 79,
+    "name": "McLaren 720S GT3 EVO",
+    "baseContent": false
+  },
+  {
+    "id": 80,
+    "name": "McLaren MP4-30",
+    "baseContent": false
+  },
+  {
+    "id": 81,
+    "name": "Mercedes-AMG GT3 2020",
+    "baseContent": false
+  },
+  {
+    "id": 82,
+    "name": "Mercedes-AMG GT4",
+    "baseContent": false
+  },
+  {
+    "id": 83,
+    "name": "Mercedes-AMG W12 E Performance",
+    "baseContent": false
+  },
+  {
+    "id": 84,
+    "name": "Mercedes-AMG W13 E Performance",
+    "baseContent": false
+  },
+  {
+    "id": 85,
+    "name": "NASCAR Cup Series Chevrolet Camaro ZL1",
+    "baseContent": false
+  },
+  {
+    "id": 86,
+    "name": "NASCAR Cup Series Ford Mustang",
+    "baseContent": false
+  },
+  {
+    "id": 87,
+    "name": "NASCAR Cup Series Next Gen Chevrolet Camaro ZL1",
+    "baseContent": false
+  },
+  {
+    "id": 88,
+    "name": "NASCAR Cup Series Next Gen Ford Mustang",
+    "baseContent": false
+  },
+  {
+    "id": 89,
+    "name": "NASCAR Cup Series Next Gen Toyota Camry",
+    "baseContent": false
+  },
+  {
+    "id": 90,
+    "name": "NASCAR Cup Series Toyota Camry",
+    "baseContent": false
+  },
+  {
+    "id": 91,
+    "name": "NASCAR Legends Buick LeSabre - 1987",
+    "baseContent": false
+  },
+  {
+    "id": 92,
+    "name": "NASCAR Legends Chevrolet Monte Carlo - 1987",
+    "baseContent": false
+  },
+  {
+    "id": 93,
+    "name": "NASCAR Legends Ford Thunderbird - 1987",
+    "baseContent": false
+  },
+  {
+    "id": 94,
+    "name": "NASCAR Legends Pontiac Grand Prix - 1987",
+    "baseContent": false
+  },
+  {
+    "id": 95,
+    "name": "NASCAR Truck Chevrolet Silverado",
+    "baseContent": false
+  },
+  {
+    "id": 96,
+    "name": "NASCAR Truck Ford F150",
+    "baseContent": false
+  },
+  {
+    "id": 97,
+    "name": "NASCAR Truck Toyota Tundra TRD Pro",
+    "baseContent": false
+  },
+  {
+    "id": 98,
+    "name": "NASCAR Whelen Tour/SK Modified",
+    "baseContent": false
+  },
+  {
+    "id": 99,
+    "name": "NASCAR XFINITY Chevrolet Camaro",
+    "baseContent": false
+  },
+  {
+    "id": 100,
+    "name": "NASCAR XFINITY Ford Mustang",
+    "baseContent": false
+  },
+  {
+    "id": 101,
+    "name": "NASCAR XFINITY Toyota Supra",
+    "baseContent": false
+  },
+  {
+    "id": 102,
+    "name": "Nissan GTP ZX-T",
+    "baseContent": false
+  },
+  {
+    "id": 103,
+    "name": "Porsche 718 Cayman GT4 Clubsport MR",
+    "baseContent": false
+  },
+  {
+    "id": 104,
+    "name": "Porsche 911 GT3 Cup",
+    "baseContent": false
+  },
+  {
+    "id": 105,
+    "name": "Porsche 911 GT3 R",
+    "baseContent": false
+  },
+  {
+    "id": 106,
+    "name": "Porsche 911 RSR",
+    "baseContent": false
+  },
+  {
+    "id": 107,
+    "name": "Porsche 919",
+    "baseContent": false
+  },
+  {
+    "id": 108,
+    "name": "Porsche 963 GTP",
+    "baseContent": false
+  },
+  {
+    "id": 109,
+    "name": "Porsche Mission R",
+    "baseContent": false
+  },
+  {
+    "id": 110,
+    "name": "Radical SR10",
+    "baseContent": false
+  },
+  {
+    "id": 111,
+    "name": "Renault Clio",
+    "baseContent": false
+  },
+  {
+    "id": 112,
+    "name": "Ruf RT 12R",
+    "baseContent": false
+  },
+  {
+    "id": 113,
+    "name": "Silver Crown",
+    "baseContent": false
+  },
+  {
+    "id": 114,
+    "name": "Skip Barber Formula 2000",
+    "baseContent": false
+  },
+  {
+    "id": 115,
+    "name": "Sprint Car",
+    "baseContent": false
+  },
+  {
+    "id": 116,
+    "name": "SRX",
+    "baseContent": false
+  },
+  {
+    "id": 117,
+    "name": "Stock Car Brasil Chevrolet Cruze",
+    "baseContent": false
+  },
+  {
+    "id": 118,
+    "name": "Stock Car Brasil Toyota Corolla",
+    "baseContent": false
+  },
+  {
+    "id": 119,
+    "name": "Street Stock - Casino and Eagle",
+    "baseContent": false
+  },
+  {
+    "id": 120,
+    "name": "Subaru WRX STI",
+    "baseContent": false
+  },
+  {
+    "id": 121,
+    "name": "Super Formula Lights",
+    "baseContent": false
+  },
+  {
+    "id": 122,
+    "name": "Super Formula SF23",
+    "baseContent": false
+  },
+  {
+    "id": 123,
+    "name": "Super Late Model",
+    "baseContent": false
+  },
+  {
+    "id": 124,
+    "name": "USF 2000",
+    "baseContent": false
+  },
+  {
+    "id": 125,
+    "name": "Williams FW31",
+    "baseContent": false
+  },
+  {
+    "id": 126,
+    "name": "[Legacy] Audi R8 LMS",
+    "baseContent": false
+  },
+  {
+    "id": 127,
+    "name": "[Legacy] BMW Z4 GT3",
+    "baseContent": false
+  },
+  {
+    "id": 128,
+    "name": "[Legacy] Dallara IR-05",
+    "baseContent": false
+  },
+  {
+    "id": 129,
+    "name": "[Legacy] Ferrari 488 GT3",
+    "baseContent": false
+  },
+  {
+    "id": 130,
+    "name": "[Legacy] McLaren MP4-12C GT3",
+    "baseContent": false
+  },
+  {
+    "id": 131,
+    "name": "[Legacy] Mercedes-AMG GT3",
+    "baseContent": false
+  },
+  {
+    "id": 132,
+    "name": "[Legacy] NASCAR Cup Chevrolet Impala COT - 2009",
+    "baseContent": false
+  },
+  {
+    "id": 133,
+    "name": "[Legacy] NASCAR Cup Chevrolet SS - 2013",
+    "baseContent": false
+  },
+  {
+    "id": 134,
+    "name": "[Legacy] NASCAR Cup Ford Fusion - 2016",
+    "baseContent": false
+  },
+  {
+    "id": 135,
+    "name": "[Legacy] NASCAR Nationwide Chevrolet Impala - 2012",
+    "baseContent": false
+  },
+  {
+    "id": 136,
+    "name": "[Legacy] NASCAR Xfinity Chevrolet Camaro - 2014",
+    "baseContent": false
+  },
+  {
+    "id": 137,
+    "name": "[Legacy] NASCAR Xfinity Ford Mustang - 2016",
+    "baseContent": false
+  },
+  {
+    "id": 138,
+    "name": "[Legacy] NASCAR Xfinity Toyota Camry - 2015",
+    "baseContent": false
+  },
+  {
+    "id": 139,
+    "name": "[Legacy] Porsche 911 GT3 Cup (991)",
+    "baseContent": false
+  },
+  {
+    "id": 140,
+    "name": "[Legacy] Porsche 911 GT3 R",
+    "baseContent": false
+  },
+  {
+    "id": 141,
+    "name": "[Legacy] Pro Mazda",
+    "baseContent": false
+  },
+  {
+    "id": 142,
+    "name": "[Legacy] Riley MkXX Daytona Prototype - 2008",
+    "baseContent": false
+  },
+  {
+    "id": 143,
+    "name": "[Legacy] Supercars Ford Mustang GT",
+    "baseContent": false
+  },
+  {
+    "id": 144,
+    "name": "[Legacy] Supercars Holden ZB Commodore",
+    "baseContent": false
+  },
+  {
+    "id": 145,
+    "name": "[Legacy] V8 Supercar Ford Falcon - 2009",
+    "baseContent": false
+  },
+  {
+    "id": 146,
+    "name": "[Legacy] V8 Supercar Ford FG Falcon - 2014",
+    "baseContent": false
+  },
+  {
+    "id": 147,
+    "name": "[Legacy] V8 Supercar Holden VF Commodore",
+    "baseContent": false
+  },
+  {
+    "id": 148,
+    "name": "Mustang GT4",
+    "baseContent": false
+  }
+]

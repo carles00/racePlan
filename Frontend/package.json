@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "author": "carles.gallardo00@gmail.com",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",

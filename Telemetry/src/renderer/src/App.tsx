@@ -27,6 +27,7 @@ function App(): React.JSX.Element {
           </a>
         </div>
       </div>
+      <div className='bg-amber-600'><p>Tailwind Test</p></div>
       <Versions></Versions>
     </>
   )
